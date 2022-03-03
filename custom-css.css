@@ -1,0 +1,60 @@
+.masthead{
+    background: -webkit-gradient(linear, left top, right top, from(rgba(251, 204, 174, 0.1)), to(rgba(204, 174, 251, 0.1))));
+	background: linear-gradient(180deg, #ccaefb 0%, #fbccae 100%);
+}
+
+body{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16pt;
+}
+
+p{
+	text-align: left;
+}
+
+h1, h2{
+    font-family: 'Merienda', serif;
+    font-size: 32pt;
+}
+
+h3{
+    font-size: 30pt;
+}
+
+.responsive{
+	width: 75%;
+	max-width: 500px;
+	height: auto;
+}
+
+.rounded-circle{
+	background: linear-gradient(180deg, #7B61AE 0%, #7B61AE 100%);
+}
+
+#sidebar-wrapper{
+	background: linear-gradient(180deg, #7B61AE 0%, #7B61AE 100%);
+}
+
+#contact{
+	background: -webkit-gradient(linear, left top, right top, from(rgba(251, 204, 174, 0.1)), to(rgba(251, 204, 174, 0.1))));
+	background: linear-gradient(180deg, #fbccae 0%, #fbccae 100%);
+}
+
+#skills ul{
+    text-align: center;
+    list-style-type: square;
+}
+
+#skills li{
+	text-align: left;
+}
+
+#snippet{
+	text-align: left;
+	font-style: italic;
+	padding: 35px;
+}
+
+#cw_images img{
+	padding-top: 2em;
+}
