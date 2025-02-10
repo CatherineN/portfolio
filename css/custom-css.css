@@ -1,6 +1,6 @@
 .masthead{
-    background: -webkit-gradient(linear, left top, right top, from(rgba(251, 204, 174, 0.1)), to(rgba(204, 174, 251, 0.1))));
-	background: linear-gradient(180deg, #ccaefb 0%, #fbccae 100%);
+    background: -webkit-gradient(linear, left top, right top, from(rgba(141, 227, 192, 0.1)), to(rgba(114, 204, 168, 0.1))));
+	background: linear-gradient(180deg, #8de3c0 0%, #72cca8 100%);
 }
 
 body{
@@ -13,12 +13,12 @@ p{
 }
 
 h1, h2{
-    font-family: 'Merienda', serif;
-    font-size: 32pt;
+    font-family: 'Yrsa', serif;
+    font-size: 30pt;
 }
 
 h3{
-    font-size: 30pt;
+    font-size: 25pt;
 }
 
 .responsive{
@@ -32,12 +32,12 @@ h3{
 }
 
 #sidebar-wrapper{
-	background: linear-gradient(180deg, #7B61AE 0%, #7B61AE 100%);
+	background: linear-gradient(180deg, #608a7a 0%, #608a7a 100%);
 }
 
 #contact{
 	background: -webkit-gradient(linear, left top, right top, from(rgba(251, 204, 174, 0.1)), to(rgba(251, 204, 174, 0.1))));
-	background: linear-gradient(180deg, #fbccae 0%, #fbccae 100%);
+	background: linear-gradient(180deg, #72cca8 0%, #72cca8 100%);
 }
 
 #skills ul{
@@ -52,7 +52,7 @@ h3{
 #snippet{
 	text-align: left;
 	font-style: italic;
-	padding: 35px;
+	padding: 30px;
 }
 
 #cw_images img{
